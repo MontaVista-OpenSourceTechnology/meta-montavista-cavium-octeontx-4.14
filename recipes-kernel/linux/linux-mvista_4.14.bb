@@ -24,7 +24,7 @@ DEPENDS += "elfutils-native"
 
 KMETA = "kernel-meta"
 KCONF_BSP_AUDIT_LEVEL = "0"
-COMPATIBLE_MACHINE_cavium-thunderx = "cavium-thunderx"
+COMPATIBLE_MACHINE_cavium-octeontx = "cavium-octeontx"
 
 # Signing applications require openssl-native
 DEPENDS += "openssl-native"

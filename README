@@ -1,8 +1,11 @@
 
-This README file contains information on building the cavium thunderx bsp
+This README file contains information on building the cavium octeontx bsp
 BSP layer, and booting the images contained in the /binary directory.
 Please see the corresponding sections below for details.
 
+
+This release has not been tested on Cavium ThunderX/ThunderX2 Server class processors, 
+but it does contain the required enabling code
 
 Dependencies
 ============

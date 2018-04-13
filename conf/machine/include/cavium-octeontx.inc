@@ -1,9 +1,9 @@
 # Cavium ThunderX defaults
 
 require conf/machine/include/soc-family.inc
-require conf/machine/include/tune-thunderx.inc
+require conf/machine/include/tune-octeontx.inc
 
-SOC_FAMILY = "cavium-thunderx"
+SOC_FAMILY = "cavium-octeontx"
 
 # used by sysvinit_2
 
